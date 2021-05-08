@@ -1,0 +1,127 @@
+#cabecalho
+{
+	color: purple;
+}
+
+#simbolos
+{
+	color: purple;
+	
+}
+
+#perfil
+{
+	border-radius: 50%;
+}
+
+#grupo
+{
+	width: 35px;
+	height: 40px;
+	padding-top: 5px;
+}
+
+#input
+{
+	width: 1110px;
+	height: 100px;
+	color: purple;
+	border: solid;
+	border-width: 1px;
+	border-radius: 30px;
+	box-shadow: 4px 4px 3px #d1bfdf;
+}
+
+#texto
+{
+	color: purple;
+}
+
+.emblema
+{
+	width: 55px;
+	height: 55px;
+}
+.section
+{
+	font-size: 150%;
+	color: purple;
+	border: solid;
+	border-width: 1px;
+	border-radius: 30px;
+	box-shadow: 4px 4px 3px #d1bfdf;
+
+}
+
+#onlyon
+{
+	text-align: right;
+}
+
+/*ORBITANDO*/
+
+#Jupiter img
+{
+	border-radius: 50px;
+	width: 55px;
+	height: 55px;
+}
+
+/*SPACE NEWS*/
+
+
+.imagem
+{
+	width: 220px;
+	height: 150px;
+	background-size: contain;
+}
+
+#Noticia1
+{
+	background-image: url('imagens/Elon.png');
+}
+
+#Noticia2
+{
+	background-image: url('imagens/tentar.png');
+}
+
+#Noticia3
+{
+	background-image: url('imagens/alcântara.png');
+}
+
+/*CONTEÚDO*/
+
+#recomendacoesicon 
+{
+	width: 55px;
+	height: 50px;
+	color: purple;
+	padding-bottom: 10px;
+}
+
+
+.recomendacoes 
+{
+	width: 250px;
+	height: 187px;
+	border-radius: 50px;
+}
+
+#apogee
+{
+	border-radius: 50px;
+}
+#open
+{
+	width: 250px;
+	height: 150px;
+}
+
+#mais
+{
+	border-radius: 50px;
+	outline: purple;
+}
